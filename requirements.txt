@@ -1,0 +1,5 @@
+yt-dlp
+librosa  # includes scikit-learn as dependency
+numpy
+pandas
+matplotlib
