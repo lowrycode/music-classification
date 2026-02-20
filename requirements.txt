@@ -3,3 +3,9 @@ librosa  # includes scikit-learn as dependency
 numpy
 pandas
 matplotlib
+opencv-python
+easyocr
+sqlalchemy
+psycopg2-binary
+python-dotenv
+rapidfuzz
