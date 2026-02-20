@@ -3,3 +3,4 @@ data/*
 models/*
 results/*
 .env
+__pycache__*
