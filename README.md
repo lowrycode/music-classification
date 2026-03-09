@@ -4,6 +4,8 @@ A complete pipeline for **detecting music in YouTube videos** and **identifying 
 
 The project includes audio signal processing, machine learning, OCR/vision, database integration, and cloud services—all driven from Jupyter notebooks.
 
+![music-classification](https://github.com/user-attachments/assets/546041c3-3736-4f56-81f6-4b913fc26e5b)
+
 > ***Topics:*** *audio signal processing, machine learning, OCR, computer vision, fuzzy matching, database integration*
 
 ## 🔄 Pipeline Overview
